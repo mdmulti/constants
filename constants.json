@@ -1,0 +1,17 @@
+{
+  "version" : 1,
+  "mdmc_version": 3,
+  "mdms_version": 1,
+  "oid": {
+    "base": "1.3.6.1.4.1.54622.0.1"
+  },
+  "lan": {
+    "multicast": {
+      "address": "224.5.125.85",
+      "port": 29571
+    },
+    "broadcast": {
+      "port": 25816
+    }
+  }
+}
